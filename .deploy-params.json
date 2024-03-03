@@ -1,4 +1,5 @@
 {
     "name":"enigmatick-nginx",
-    "ns":"enigmatick"
+    "ns":"enigmatick",
+    "helm":"nginxVersion"
 }
